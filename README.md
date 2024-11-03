@@ -1,2 +1,2 @@
-# honours-chitinase
-Project files relevant to my honour's project on chitinase diversity
+# SSB workflow
+Files and workflow notebook to create a sequence similarity network for a given protein family
