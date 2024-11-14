@@ -1,2 +1,2 @@
 # SSN workflow
-Files and workflow notebook to create a sequence similarity network for a given protein family
+my workflow to create a sequence similarity network for a given protein family using John Chen's [ProteinClusterTools](url)
